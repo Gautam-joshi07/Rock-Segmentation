@@ -48,7 +48,7 @@ To run this project
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Gautam\Documents\Desktop\p1)
+![App Screenshot](C:\Users\Gautam\Documents\Desktop\p1.png)
 
 
 
