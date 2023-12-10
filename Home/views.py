@@ -7,7 +7,7 @@ from .forms import ImageForm
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 
-MODEL_PATH = 'models/20211031-025213.h5'
+MODEL_PATH = 'models/model.h5'
 
 
 # Load your trained model
