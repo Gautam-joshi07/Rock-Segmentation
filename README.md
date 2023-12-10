@@ -1,5 +1,5 @@
 # Rock-Segmentation
-# Rock Segmentation
+
 
 This repository represent a web app with a classification ML model of segmented image of a Rock on lunar surface.
 
@@ -48,7 +48,7 @@ To run this project
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Gautam\Documents\Desktop\p1.png)
+![App Screenshot](p1.PNG)
 
 
 
