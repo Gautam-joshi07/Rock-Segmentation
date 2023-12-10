@@ -48,7 +48,9 @@ To run this project
 
 ## Screenshots
 
-![App Screenshot](p1.PNG)
+![Take input Image ](p1.PNG)
+
+
 ![App Screenshot](p2.PNG)
 
 
